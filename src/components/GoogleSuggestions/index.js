@@ -45,7 +45,7 @@ class GoogleSuggestions extends Component {
             <div className="input-container">
               <img
                 src="https://assets.ccbp.in/frontend/react-js/google-search-icon.png"
-                alt="Search-icon"
+                alt="search icon"
                 className="input-search-icon"
               />
               <input
