@@ -1,0 +1,19 @@
+/* Write your CSS here */
+li {
+  list-style: none;
+}
+.list-elements {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.arrow-icon {
+  height: 20px;
+  width: 20px;
+}
+.arrow-icon-container {
+  margin-right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
